@@ -1,6 +1,6 @@
 # 💫About Me :
 ### Hi there 👋, It's Omar Zidane Here
-#### I am Backend Developer ( PHP | Laravel )
+#### I am Software Developer,
 ![Backend Developer ( PHP | Laravel )](https://github.com/omrzdn/omrzdn/blob/main/wp1828950-programmer-wallpapers.jpg)
 
 Skills: PHP / LARAVEL / OOP - MVC / MSQL / JS / HTML - HTML5 / CSS - CSS3 / AJAX
