@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Omar Zidan  
 
-![Security Researcher](https://github.com/omrzdn/omrzdn/blob/main/wp1828950-programmer-wallpapers.jpg)
+![Security Researcher](https://github.com/omrzdn/omrzdn/blob/main/BugBounty.png)
 
 💻 سابقاً كنت مطور برمجيات، والآن مهتم بالـ **Cyber Security** والـ **Bug Hunting**.  
 🎯 هدفي تطوير نفسي في مجال اختبار الاختراق (Penetration Testing) وتحليل الثغرات.  
